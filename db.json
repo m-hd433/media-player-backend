@@ -1,0 +1,164 @@
+{
+  "videos": [
+    {
+      "id": "10",
+      "caption": "salaar",
+      "thumbnail": "https://cdn.gulte.com/wp-content/uploads/2023/11/F-tQWpkWAAAU9aY-scaled.jpeg",
+      "url": "https://www.youtube.com/embed/Fp7Ged8IuOE"
+    },
+    {
+      "id": "2",
+      "caption": "Invincible Season 2",
+      "thumbnail": "https://pbs.twimg.com/media/E0KPAohWEAAXqRy.jpg",
+      "url": "https://www.youtube.com/embed/tyqiQWxPz0c"
+    },
+    {
+      "id": "4",
+      "caption": "Kung Fu Panda 4",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDY0YzI0OTctYjVhYy00MTVhLWE0NTgtYTRmYTBmOTE3YTViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX190_CR0,10,190,281_.jpg",
+      "url": "https://www.youtube.com/embed/_inKs4eeHiI"
+    },
+    {
+      "id": "7",
+      "caption": "Oppenheimer",
+      "thumbnail": "https://movies.universalpictures.com/media/06-opp-dm-mobile-banner-1080x745-now-pl-f01-071223-64bab982784c7-1.jpg",
+      "url": "https://www.youtube.com/embed/uYPbbksJxIg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Movies",
+      "allVideos": [
+        {
+          "id": "7",
+          "caption": "Oppenheimer",
+          "thumbnail": "https://movies.universalpictures.com/media/06-opp-dm-mobile-banner-1080x745-now-pl-f01-071223-64bab982784c7-1.jpg",
+          "url": "https://www.youtube.com/embed/uYPbbksJxIg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Trailers",
+      "allVideos": [
+        {
+          "id": "10",
+          "caption": "salaar",
+          "thumbnail": "https://cdn.gulte.com/wp-content/uploads/2023/11/F-tQWpkWAAAU9aY-scaled.jpeg",
+          "url": "https://www.youtube.com/embed/Fp7Ged8IuOE"
+        },
+        {
+          "id": "2",
+          "caption": "Invincible Season 2",
+          "thumbnail": "https://pbs.twimg.com/media/E0KPAohWEAAXqRy.jpg",
+          "url": "https://www.youtube.com/embed/tyqiQWxPz0c"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Cartoons",
+      "allVideos": [
+        {
+          "id": "4",
+          "caption": "Kung Fu Panda 4",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDY0YzI0OTctYjVhYy00MTVhLWE0NTgtYTRmYTBmOTE3YTViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX190_CR0,10,190,281_.jpg",
+          "url": "https://www.youtube.com/embed/_inKs4eeHiI"
+        },
+        {
+          "id": "2",
+          "caption": "Invincible Season 2",
+          "thumbnail": "https://pbs.twimg.com/media/E0KPAohWEAAXqRy.jpg",
+          "url": "https://www.youtube.com/embed/tyqiQWxPz0c"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Animes",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Invincible Season 2",
+          "thumbnail": "https://pbs.twimg.com/media/E0KPAohWEAAXqRy.jpg",
+          "url": "https://www.youtube.com/embed/tyqiQWxPz0c"
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": 1,
+      "categoryName": "rdx",
+      "url": "https://www.youtube.com/embed/ebfV2J4lso4",
+      "date": "27-10-2023"
+    },
+    {
+      "id": "69760195-c91c-4c0a-b22b-e89726d6cbc2",
+      "categoryName": "Invincible",
+      "url": "https://www.youtube.com/embed/tyqiQWxPz0c",
+      "date": "2023-12-12T04:47:37.507Z"
+    },
+    {
+      "id": "73c21315-3ca6-41c5-9dab-c83873e22af3",
+      "categoryName": "Ben 10",
+      "url": "https://www.youtube.com/embed/ebfV2J4lso4",
+      "date": "2023-12-12T04:52:41.733Z"
+    },
+    {
+      "id": "8362252d-a19c-40e1-bcd7-7df9c8f76dbc",
+      "categoryName": "Invincible",
+      "url": "https://www.youtube.com/embed/tyqiQWxPz0c",
+      "date": "2023-12-12T04:52:47.556Z"
+    },
+    {
+      "id": "ad711bb2-4451-4dbe-b22e-8b384bd02c82",
+      "categoryName": "Ben 10",
+      "url": "https://www.youtube.com/embed/ebfV2J4lso4",
+      "date": "2023-12-12T04:53:10.323Z"
+    },
+    {
+      "id": "72ab4635-ece4-4bba-be95-f05ed9a8df75",
+      "categoryName": "Ben 10",
+      "url": "https://www.youtube.com/embed/ebfV2J4lso4",
+      "date": "2023-12-12T04:54:29.632Z"
+    },
+    {
+      "id": "618cacf4-abb2-4eac-a955-31e2e48fbf3e",
+      "categoryName": "Highlights",
+      "url": "https://www.youtube.com/embed/Ht1wQJTpNAA",
+      "date": "2023-12-13T03:55:05.597Z"
+    },
+    {
+      "id": "3b329e67-6106-4a6f-b4d8-e93c51ac9dfe",
+      "categoryName": "Invincible",
+      "url": "https://www.youtube.com/embed/tyqiQWxPz0c",
+      "date": "2023-12-13T03:55:24.875Z"
+    },
+    {
+      "id": "7da8eaeb-90b4-4b57-bd53-2f191d3136d9",
+      "categoryName": "Invincible",
+      "url": "https://www.youtube.com/embed/tyqiQWxPz0c",
+      "date": "2023-12-13T03:55:49.872Z"
+    },
+    {
+      "id": "090be716-db6a-4f80-85b3-320be4117dd0",
+      "categoryName": "ICC World Cup",
+      "url": "https://www.youtube.com/embed/F0_aypvtW8Y",
+      "date": "2023-12-13T03:55:52.828Z"
+    },
+    {
+      "id": "525fffbe-a8b0-4d23-9a89-1acf40d09b7f",
+      "categoryName": "ICC World Cup",
+      "url": "https://www.youtube.com/embed/F0_aypvtW8Y",
+      "date": "2023-12-13T03:58:29.204Z"
+    },
+    {
+      "id": "a4cf04d4-6d9c-466e-9cf3-8806ddf38783",
+      "categoryName": "salaar",
+      "url": "https://www.youtube.com/embed/Fp7Ged8IuOE",
+      "date": "2023-12-14T04:16:32.411Z"
+    }
+  ]
+}
